@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next_button">Siguiente</string>
+    <string name="question_australia">Canberra es la capital de Australia.</string>
+    <string name="question_oceans">El Océano Pacífico es más grande que el Océano Atlántico.</string>
+    <string name="question_mideast">El Canal de Suez conecta el Mar Rojo y el Océano Índico.</string>
+    <string name="question_africa">La fuente del río Nilo está en Egipto.</string>
+    <string name="question_americas">El río Amazonas es el río más largo de América.</string>
+    <string name="question_asia">El lago Baikal es el lago de agua dulce más antiguo y profundo del mundo.</string>
+    <string name="question_txt">¿Kotlin es el lenguaje nativo de programacion de Google?</string>
+    <string name="question_java">¿El logo de java es un taza de cafe?</string>
+    <string name="question_alac">¿Los alacranes son insectos?</string>
+    <string name="question_main">"¿Un archivo main es algo pincipal e inicio? "</string>
+    <string name="app_nombre">QuizzApp</string>
+    <string name="true_button">verdadero</string>
+    <string name="false_button">falso</string>
+    <string name="correct_toast">Correcto</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="question_text">Pregunta</string>
+    <string name="app_name">app_name</string>
+</resources>
